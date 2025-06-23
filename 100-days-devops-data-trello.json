@@ -1,0 +1,71 @@
+{
+  "lists": [
+    {
+      "id": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "To Do"
+    },
+    {
+      "id": "a2f5e6b5-ed14-4ae8-a1ec-c7153ca38fa2",
+      "name": "Doing"
+    },
+    {
+      "id": "9fbda5e2-1dbf-42f2-afdb-fbfe44296622",
+      "name": "Done"
+    },
+    {
+      "id": "4caddeb7-3300-491c-a570-eb17ddd99138",
+      "name": "Resources"
+    },
+    {
+      "id": "f84a7b0f-6609-4d73-aa4b-26020bb8cd0a",
+      "name": "Stretch Projects"
+    }
+  ],
+  "cards": [
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 1: List files in Linux",
+      "desc": "Use `ls`, `ls -l`, and `ls -a` to explore file listings."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 2: Bash variables",
+      "desc": "Write a script using at least 3 variables and echo them."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 3: File permissions",
+      "desc": "Use `chmod` to modify permissions and explain what each permission means."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 16: Python print & input",
+      "desc": "Create a script that prints a greeting and accepts user input."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 36: SQL SELECT & WHERE",
+      "desc": "Use a sample dataset and practice SELECT statements with WHERE clauses."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 51: Git basics",
+      "desc": "Initialize a Git repo and make your first commit."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 61: Run Docker Hello World",
+      "desc": "Install Docker and run the hello-world container."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 81: Load CSV with Pandas",
+      "desc": "Use Pandas to load a dataset and display the first few rows."
+    },
+    {
+      "idList": "3e7248cb-70d7-42d7-81a2-2fdc3d9310c8",
+      "name": "Day 96: Create AWS Free Tier Account",
+      "desc": "Register for AWS and explore the console interface."
+    }
+  ]
+}
